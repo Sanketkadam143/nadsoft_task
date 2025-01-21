@@ -1,6 +1,6 @@
 {
-  "short_name": "Blog App",
-  "name": "Blog App With Django",
+  "short_name": "Member Dashboard",
+  "name": "Member Dashboard",
   "icons": [
     {
       "src": "favicon.ico",
