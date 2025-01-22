@@ -97,7 +97,7 @@ const TaskTable = ({ tasks }) => {
   return (
     <div>
     <DataTable
-      title="Task List"
+      title="Members Table"
       columns={columns}
       data={tasks}
       pagination
